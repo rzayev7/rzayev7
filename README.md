@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Security Project**
 
-- 🌱 I’m currently learning **Vue.js , React.js**
+- 🌱 I’m currently learning **Next.js , React.js**
 
 - 📫 How to reach me **rzaevsahib@gmail.com**
 
