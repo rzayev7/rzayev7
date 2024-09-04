@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahib Rzayev</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate fullstack developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **Security Project**
 
-- 🌱 I’m currently learning **Next.js , React.js**
+- 🌱 I’m currently learning **NodeJS , Golang**
 
 - 📫 How to reach me **rzaevsahib@gmail.com**
 
